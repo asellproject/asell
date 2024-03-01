@@ -65,7 +65,7 @@ function license() {
                 if (_0x4fe0b7 === null) _0x40b420('<b>Hargailah Hak Cipta</b><br><br><small>Gunakan \"Lisensi Premium\" untuk menghapus credit.</small><br><br><small>#ERR_COPYRIGHT</small>');
                 else {
                     var _0x40e022 = new Date()[_0x1535de(0x116)]();
-                    _0x4fe0b7['innerHTML'] = '&#0169;' + _0x40e022 + _0x1535de(0x133) + $license_item + '\" target=\"_blank\"><b>Kr</b></a>', _0x4fe0b7[_0x1535de(0x108)](_0x1535de(0x1c8), _0x1535de(0x165));
+                    _0x4fe0b7['innerHTML'] = '&#0169;' + _0x40e022 + _0x1535de(0x133) + $license_item + '\" target=\"_blank\"><b>Ap</b></a>', _0x4fe0b7[_0x1535de(0x108)](_0x1535de(0x1c8), _0x1535de(0x165));
                 }
             } else {
                 if ($license_key === '') _0x40b420('<b>Kode Lisensi</b> dibutuhkan..<br><br><small>#ERR_LICENSE</small>');
