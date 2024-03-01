@@ -53,7 +53,7 @@ function license() {
         location.hostname.indexOf('.blogger.com') != -1
       ) {
         console.log(
-          'Developed by. https://kangrian.net ( Free / Trial Version )'
+          'Developed by. https://asellproject.blogspot.com/ ( Free / Trial Version )'
         )
         var ac = document.getElementById('copyright')
         if (ac === null) {
@@ -67,7 +67,7 @@ function license() {
             ad +
             ' &#8212; Made with. <a href="https://asellproject.blogspot.com/' +
             $license_item +
-            '" target="_blank"><b>Kr</b></a>'
+            '" target="_blank"><b>Ap</b></a>'
           ac.setAttribute(
             'style',
             'display:inline-block!important;opacity:1!important;position:static!important;visibility:visible!important;text-indent:0px!important;color:currentColor!important'
@@ -112,7 +112,7 @@ function license() {
                 )
               } else {
                 console.log(
-                  'Developed by. https://kangrian.net ( Premium Version )'
+                  'Developed by. https://asellproject.blogspot.com/ ( Premium Version )'
                 )
               }
             }
