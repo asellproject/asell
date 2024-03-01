@@ -11,7 +11,7 @@
         }
     }
 }(_0x5cde, 0xbfcc4));
-const $license_item = 'simstore-blogger-template';
+const $license_item = 'simstore';
 
 function _0x5db4(_0x1d8d3a, _0x4004cd) {
     var _0x5cdee3 = _0x5cde();
