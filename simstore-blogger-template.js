@@ -11,7 +11,7 @@
         }
     }
 }(_0x5cde, 0xbfcc4));
-const $license_item = 'simstore';
+const $license_item = '/2024/02/simstore-premium.html';
 
 function _0x5db4(_0x1d8d3a, _0x4004cd) {
     var _0x5cdee3 = _0x5cde();
