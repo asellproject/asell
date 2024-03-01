@@ -33,9 +33,9 @@ function license() {
     var _0x40c8c8 =
       '            <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap" rel="stylesheet">            <style>hr { margin:0!important; } body { padding: 0px!important; } * { font-family: "Rubik", sans-serif; font-weight:400; box-sizing:border-box;margin:0;padding:0; text-decoration:none; color:#636363; } b { font-weight: 500; color:#232323; }</style>            <div id="notice_html" style="display:flex;background:#fafafa;min-height:100vh;text-align:center;">                <div style="margin:auto;width:480px;max-width:80%;background:white;padding:30px;border-radius:10px;border:1px solid #ddd;">                    <svg style="fill:#636363;width:100px;height:100px;display:block;margin:0 auto 20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M228.9 79.9L51.8 403.1C40.6 423.3 55.5 448 78.9 448h354.3c23.3 0 38.2-24.7 27.1-44.9L283.1 79.9c-11.7-21.2-42.5-21.2-54.2 0zM273.6 214L270 336h-28l-3.6-122h35.2zM256 402.4c-10.7 0-19.1-8.1-19.1-18.4s8.4-18.4 19.1-18.4 19.1 8.1 19.1 18.4-8.4 18.4-19.1 18.4z"/></svg>                    <h2><b>Peringatan</b> :</h2>                    <br>                    <p>' +
       _0x36676e +
-      '</p>                    <br>                    <hr style="border:0;border-top:1px solid #ddd;">                    <br>                    <a href="https://lapak.kangrian.net/' +
+      '</p>                    <br>                    <hr style="border:0;border-top:1px solid #ddd;">                    <br>                    <a href="https://asellproject.blogspot.com' +
       $license_item +
-      '" target="_blank" style="opacity:.7;font-size:70%;letter-spacing:1px;">https://lapak.kangrian.net</a>                </div>            </div>        '
+      '" target="_blank" style="opacity:.7;font-size:70%;letter-spacing:1px;">https://asellproject.blogspot.com</a>                </div>            </div>        '
     return (document.body.innerHTML = _0x40c8c8)
   }
   if (typeof $license_key === 'undefined') {
@@ -62,7 +62,7 @@ function license() {
           _0x4fe0b7.innerHTML =
             '&#0169;' +
             _0x40e022 +
-            ' &#8212; Made with. <a href="https://lapak.kangrian.net/' +
+            ' &#8212; Made with. <a href="https://asellproject.blogspot.com/' +
             $license_item +
             '" target="_blank"><b>Kr</b></a>'
           _0x4fe0b7.setAttribute(
